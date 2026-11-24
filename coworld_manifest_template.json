@@ -172,6 +172,598 @@
       "game_config": {
         "map": "DefaultSmall"
       }
+    },
+    {
+      "id": "alarmclock",
+      "name": "AlarmClock",
+      "game_config": {
+        "map": "AlarmClock"
+      },
+      "description": "Upstream AlarmClock map with original seed and round limit."
+    },
+    {
+      "id": "barcode",
+      "name": "Barcode",
+      "game_config": {
+        "map": "Barcode"
+      },
+      "description": "Upstream Barcode map with original seed and round limit."
+    },
+    {
+      "id": "batsignal",
+      "name": "BatSignal",
+      "game_config": {
+        "map": "BatSignal"
+      },
+      "description": "Upstream BatSignal map with original seed and round limit."
+    },
+    {
+      "id": "brat",
+      "name": "Brat",
+      "game_config": {
+        "map": "Brat"
+      },
+      "description": "Upstream Brat map with original seed and round limit."
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "game_config": {
+        "map": "Bread"
+      },
+      "description": "Upstream Bread map with original seed and round limit."
+    },
+    {
+      "id": "bunny",
+      "name": "Bunny",
+      "game_config": {
+        "map": "Bunny"
+      },
+      "description": "Upstream Bunny map with original seed and round limit."
+    },
+    {
+      "id": "bunnygame",
+      "name": "BunnyGame",
+      "game_config": {
+        "map": "BunnyGame"
+      },
+      "description": "Upstream BunnyGame map with original seed and round limit."
+    },
+    {
+      "id": "castle",
+      "name": "Castle",
+      "game_config": {
+        "map": "Castle"
+      },
+      "description": "Upstream Castle map with original seed and round limit."
+    },
+    {
+      "id": "castledefense",
+      "name": "CastleDefense",
+      "game_config": {
+        "map": "CastleDefense"
+      },
+      "description": "Upstream CastleDefense map with original seed and round limit."
+    },
+    {
+      "id": "circuit",
+      "name": "Circuit",
+      "game_config": {
+        "map": "Circuit"
+      },
+      "description": "Upstream Circuit map with original seed and round limit."
+    },
+    {
+      "id": "crab",
+      "name": "Crab",
+      "game_config": {
+        "map": "Crab"
+      },
+      "description": "Upstream Crab map with original seed and round limit."
+    },
+    {
+      "id": "defaulthuge",
+      "name": "DefaultHuge",
+      "game_config": {
+        "map": "DefaultHuge"
+      },
+      "description": "Upstream DefaultHuge map with original seed and round limit."
+    },
+    {
+      "id": "defaultlarge",
+      "name": "DefaultLarge",
+      "game_config": {
+        "map": "DefaultLarge"
+      },
+      "description": "Upstream DefaultLarge map with original seed and round limit."
+    },
+    {
+      "id": "defaultmedium",
+      "name": "DefaultMedium",
+      "game_config": {
+        "map": "DefaultMedium"
+      },
+      "description": "Upstream DefaultMedium map with original seed and round limit."
+    },
+    {
+      "id": "dominoes",
+      "name": "Dominoes",
+      "game_config": {
+        "map": "Dominoes"
+      },
+      "description": "Upstream Dominoes map with original seed and round limit."
+    },
+    {
+      "id": "donkeykong",
+      "name": "DonkeyKong",
+      "game_config": {
+        "map": "DonkeyKong"
+      },
+      "description": "Upstream DonkeyKong map with original seed and round limit."
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "game_config": {
+        "map": "Filter"
+      },
+      "description": "Upstream Filter map with original seed and round limit."
+    },
+    {
+      "id": "flower",
+      "name": "Flower",
+      "game_config": {
+        "map": "Flower"
+      },
+      "description": "Upstream Flower map with original seed and round limit."
+    },
+    {
+      "id": "fossil",
+      "name": "Fossil",
+      "game_config": {
+        "map": "Fossil"
+      },
+      "description": "Upstream Fossil map with original seed and round limit."
+    },
+    {
+      "id": "fourcorners",
+      "name": "FourCorners",
+      "game_config": {
+        "map": "FourCorners"
+      },
+      "description": "Upstream FourCorners map with original seed and round limit."
+    },
+    {
+      "id": "gears",
+      "name": "Gears",
+      "game_config": {
+        "map": "Gears"
+      },
+      "description": "Upstream Gears map with original seed and round limit."
+    },
+    {
+      "id": "hungergames",
+      "name": "HungerGames",
+      "game_config": {
+        "map": "HungerGames"
+      },
+      "description": "Upstream HungerGames map with original seed and round limit."
+    },
+    {
+      "id": "jail",
+      "name": "Jail",
+      "game_config": {
+        "map": "Jail"
+      },
+      "description": "Upstream Jail map with original seed and round limit."
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "game_config": {
+        "map": "Justice"
+      },
+      "description": "Upstream Justice map with original seed and round limit."
+    },
+    {
+      "id": "leaf",
+      "name": "Leaf",
+      "game_config": {
+        "map": "Leaf"
+      },
+      "description": "Upstream Leaf map with original seed and round limit."
+    },
+    {
+      "id": "mirage",
+      "name": "Mirage",
+      "game_config": {
+        "map": "Mirage"
+      },
+      "description": "Upstream Mirage map with original seed and round limit."
+    },
+    {
+      "id": "money",
+      "name": "Money",
+      "game_config": {
+        "map": "Money"
+      },
+      "description": "Upstream Money map with original seed and round limit."
+    },
+    {
+      "id": "moneytower",
+      "name": "MoneyTower",
+      "game_config": {
+        "map": "MoneyTower"
+      },
+      "description": "Upstream MoneyTower map with original seed and round limit."
+    },
+    {
+      "id": "oasis",
+      "name": "Oasis",
+      "game_config": {
+        "map": "Oasis"
+      },
+      "description": "Upstream Oasis map with original seed and round limit."
+    },
+    {
+      "id": "paintball",
+      "name": "Paintball",
+      "game_config": {
+        "map": "Paintball"
+      },
+      "description": "Upstream Paintball map with original seed and round limit."
+    },
+    {
+      "id": "parking-lot",
+      "name": "Parking_lot",
+      "game_config": {
+        "map": "Parking_lot"
+      },
+      "description": "Upstream Parking_lot map with original seed and round limit."
+    },
+    {
+      "id": "piglets2",
+      "name": "Piglets2",
+      "game_config": {
+        "map": "Piglets2"
+      },
+      "description": "Upstream Piglets2 map with original seed and round limit."
+    },
+    {
+      "id": "plumbergame",
+      "name": "PlumberGame",
+      "game_config": {
+        "map": "PlumberGame"
+      },
+      "description": "Upstream PlumberGame map with original seed and round limit."
+    },
+    {
+      "id": "portal",
+      "name": "Portal",
+      "game_config": {
+        "map": "Portal"
+      },
+      "description": "Upstream Portal map with original seed and round limit."
+    },
+    {
+      "id": "racetrack",
+      "name": "Racetrack",
+      "game_config": {
+        "map": "Racetrack"
+      },
+      "description": "Upstream Racetrack map with original seed and round limit."
+    },
+    {
+      "id": "restart",
+      "name": "Restart",
+      "game_config": {
+        "map": "Restart"
+      },
+      "description": "Upstream Restart map with original seed and round limit."
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "game_config": {
+        "map": "Rose"
+      },
+      "description": "Upstream Rose map with original seed and round limit."
+    },
+    {
+      "id": "smile",
+      "name": "SMILE",
+      "game_config": {
+        "map": "SMILE"
+      },
+      "description": "Upstream SMILE map with original seed and round limit."
+    },
+    {
+      "id": "saltypepper",
+      "name": "SaltyPepper",
+      "game_config": {
+        "map": "SaltyPepper"
+      },
+      "description": "Upstream SaltyPepper map with original seed and round limit."
+    },
+    {
+      "id": "sandybeach",
+      "name": "SandyBeach",
+      "game_config": {
+        "map": "SandyBeach"
+      },
+      "description": "Upstream SandyBeach map with original seed and round limit."
+    },
+    {
+      "id": "snowglobe",
+      "name": "Snowglobe",
+      "game_config": {
+        "map": "Snowglobe"
+      },
+      "description": "Upstream Snowglobe map with original seed and round limit."
+    },
+    {
+      "id": "snowman",
+      "name": "Snowman",
+      "game_config": {
+        "map": "Snowman"
+      },
+      "description": "Upstream Snowman map with original seed and round limit."
+    },
+    {
+      "id": "targetpractice",
+      "name": "TargetPractice",
+      "game_config": {
+        "map": "TargetPractice"
+      },
+      "description": "Upstream TargetPractice map with original seed and round limit."
+    },
+    {
+      "id": "terminal",
+      "name": "Terminal",
+      "game_config": {
+        "map": "Terminal"
+      },
+      "description": "Upstream Terminal map with original seed and round limit."
+    },
+    {
+      "id": "thebest",
+      "name": "TheBest",
+      "game_config": {
+        "map": "TheBest"
+      },
+      "description": "Upstream TheBest map with original seed and round limit."
+    },
+    {
+      "id": "thirds",
+      "name": "Thirds",
+      "game_config": {
+        "map": "Thirds"
+      },
+      "description": "Upstream Thirds map with original seed and round limit."
+    },
+    {
+      "id": "uglysweater",
+      "name": "UglySweater",
+      "game_config": {
+        "map": "UglySweater"
+      },
+      "description": "Upstream UglySweater map with original seed and round limit."
+    },
+    {
+      "id": "underthesea",
+      "name": "UnderTheSea",
+      "game_config": {
+        "map": "UnderTheSea"
+      },
+      "description": "Upstream UnderTheSea map with original seed and round limit."
+    },
+    {
+      "id": "box",
+      "name": "box",
+      "game_config": {
+        "map": "box"
+      },
+      "description": "Upstream box map with original seed and round limit."
+    },
+    {
+      "id": "boxofchocolates",
+      "name": "boxofchocolates",
+      "game_config": {
+        "map": "boxofchocolates"
+      },
+      "description": "Upstream boxofchocolates map with original seed and round limit."
+    },
+    {
+      "id": "catface",
+      "name": "catface",
+      "game_config": {
+        "map": "catface"
+      },
+      "description": "Upstream catface map with original seed and round limit."
+    },
+    {
+      "id": "defensetower",
+      "name": "defensetower",
+      "game_config": {
+        "map": "defensetower"
+      },
+      "description": "Upstream defensetower map with original seed and round limit."
+    },
+    {
+      "id": "fix",
+      "name": "fix",
+      "game_config": {
+        "map": "fix"
+      },
+      "description": "Upstream fix map with original seed and round limit."
+    },
+    {
+      "id": "galaxy",
+      "name": "galaxy",
+      "game_config": {
+        "map": "galaxy"
+      },
+      "description": "Upstream galaxy map with original seed and round limit."
+    },
+    {
+      "id": "gardenworld",
+      "name": "gardenworld",
+      "game_config": {
+        "map": "gardenworld"
+      },
+      "description": "Upstream gardenworld map with original seed and round limit."
+    },
+    {
+      "id": "giver",
+      "name": "giver",
+      "game_config": {
+        "map": "giver"
+      },
+      "description": "Upstream giver map with original seed and round limit."
+    },
+    {
+      "id": "gridworld",
+      "name": "gridworld",
+      "game_config": {
+        "map": "gridworld"
+      },
+      "description": "Upstream gridworld map with original seed and round limit."
+    },
+    {
+      "id": "headphones",
+      "name": "headphones",
+      "game_config": {
+        "map": "headphones"
+      },
+      "description": "Upstream headphones map with original seed and round limit."
+    },
+    {
+      "id": "leavemealone",
+      "name": "leavemealone",
+      "game_config": {
+        "map": "leavemealone"
+      },
+      "description": "Upstream leavemealone map with original seed and round limit."
+    },
+    {
+      "id": "lighthouse",
+      "name": "lighthouse",
+      "game_config": {
+        "map": "lighthouse"
+      },
+      "description": "Upstream lighthouse map with original seed and round limit."
+    },
+    {
+      "id": "maze",
+      "name": "maze",
+      "game_config": {
+        "map": "maze"
+      },
+      "description": "Upstream maze map with original seed and round limit."
+    },
+    {
+      "id": "memstore",
+      "name": "memstore",
+      "game_config": {
+        "map": "memstore"
+      },
+      "description": "Upstream memstore map with original seed and round limit."
+    },
+    {
+      "id": "mit",
+      "name": "mit",
+      "game_config": {
+        "map": "mit"
+      },
+      "description": "Upstream mit map with original seed and round limit."
+    },
+    {
+      "id": "quack",
+      "name": "quack",
+      "game_config": {
+        "map": "quack"
+      },
+      "description": "Upstream quack map with original seed and round limit."
+    },
+    {
+      "id": "rain",
+      "name": "rain",
+      "game_config": {
+        "map": "rain"
+      },
+      "description": "Upstream rain map with original seed and round limit."
+    },
+    {
+      "id": "roads",
+      "name": "roads",
+      "game_config": {
+        "map": "roads"
+      },
+      "description": "Upstream roads map with original seed and round limit."
+    },
+    {
+      "id": "sayhi",
+      "name": "sayhi",
+      "game_config": {
+        "map": "sayhi"
+      },
+      "description": "Upstream sayhi map with original seed and round limit."
+    },
+    {
+      "id": "shell",
+      "name": "shell",
+      "game_config": {
+        "map": "shell"
+      },
+      "description": "Upstream shell map with original seed and round limit."
+    },
+    {
+      "id": "sierpinski",
+      "name": "sierpinski",
+      "game_config": {
+        "map": "sierpinski"
+      },
+      "description": "Upstream sierpinski map with original seed and round limit."
+    },
+    {
+      "id": "starburst",
+      "name": "starburst",
+      "game_config": {
+        "map": "starburst"
+      },
+      "description": "Upstream starburst map with original seed and round limit."
+    },
+    {
+      "id": "sunrise",
+      "name": "sunrise",
+      "game_config": {
+        "map": "sunrise"
+      },
+      "description": "Upstream sunrise map with original seed and round limit."
+    },
+    {
+      "id": "walalilongla",
+      "name": "walalilongla",
+      "game_config": {
+        "map": "walalilongla"
+      },
+      "description": "Upstream walalilongla map with original seed and round limit."
+    },
+    {
+      "id": "windmill",
+      "name": "windmill",
+      "game_config": {
+        "map": "windmill"
+      },
+      "description": "Upstream windmill map with original seed and round limit."
+    },
+    {
+      "id": "yearofthesnake",
+      "name": "yearofthesnake",
+      "game_config": {
+        "map": "yearofthesnake"
+      },
+      "description": "Upstream yearofthesnake map with original seed and round limit."
     }
   ],
   "certification": {
