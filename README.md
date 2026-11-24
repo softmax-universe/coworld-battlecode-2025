@@ -38,6 +38,16 @@ packages can remain in the ZIP; the league preference selects the entrypoint.
 If you only have Java sources, place them under the scaffold's `java/src/` first.
 ZIP limits are 32 MiB compressed, 128 MiB expanded and 10,000 entries.
 
+## Map pool
+
+The manifest exposes all 75 public maps in the [pinned 2025 engine](https://github.com/battlecode/battlecode25/tree/28975a487c1a30ed2b5bed644fe6ecd2c3dd1482/engine/src/main/battlecode/world/resources).
+Each variant selects one original map with its own seed and round limit.
+Certification uses `default-small`.
+
+To enable league rotation, publish and certify the expanded manifest first.
+Then set `settings.ladder.scheduler.variant_rotation` to the list in
+[docs/map-pool.json](docs/map-pool.json), preserving the other league settings.
+
 ## Reproduce archived players
 
 ```sh
